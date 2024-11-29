@@ -1,6 +1,8 @@
 # Sistema de Gestión de Eventos
 
 Este proyecto implementa un Sistema de Gestión de Eventos utilizando los principios de Programación Orientada a Objetos (POO) en Java. El sistema permite la creación, gestión y consulta de eventos con participantes y organizadores.
+# [Carpeta.java](https://github.com/R0yalCode/Gesti-n-de-eventos/tree/main/Sitema%20de%20Gestion%20de%20Eventos)
+ESta carpeta te redirige a los archivos.java necesarios para ejecutar el proyecto localmente. 
 
 ## Requisitos Funcionales
 1. Gestión de eventos con características únicas.
