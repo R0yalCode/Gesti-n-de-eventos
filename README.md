@@ -9,7 +9,7 @@ Este proyecto implementa un Sistema de Gestión de Eventos utilizando los princi
 4. Representación de relaciones UML: Asociación, Agregación, Composición, Dependencia, Generalización, Realización.
 
 ## Diagrama UML
-![Diagrama UML_Gestion de eventos](https://github.com/user-attachments/assets/56492648-0126-4c74-a1e3-41e8b49788cf)
+![Gestion de eventos](https://github.com/user-attachments/assets/7415a915-a422-4549-8d05-d3421ad97f49)
 >Diagrama UML
 
 # Colaboradores
